@@ -50,11 +50,11 @@ body {
 html {
   font-family:'Open Sans',sans-serif;
   font-size: 12px;
-  line-height: 1.5;
+  line-height: 1.8;
 }
 @media (min-width: 38rem) {
   html {
-    font-size: 15px;
+    font-size: 14px;
   }
 }
 
